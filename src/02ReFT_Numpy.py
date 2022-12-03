@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 """
 @Project : FT_Pro
-@File    : 02ReFT_Demo.py
+@File    : 02ReFT_Numpy.py
 @IDE     : PyCharm 
 @Author  : 李睡睡
 @Date    : 2022/12/2 17:18 

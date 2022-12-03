@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 """
 @Project : FT_Pro
-@File    : 03HFT_Demo
+@File    : 03HPT_Demo
 @IDE     : PyCharm
 @Author  : 李睡睡
 @Date    : 2022/12/4 2:32
@@ -37,5 +37,5 @@ plt.title('original'),plt.axis('off')
 plt.subplot(122),plt.imshow(iimg,cmap='gray')
 plt.title('iimg'),plt.axis('off')
 
-plt.savefig('../out/HFT_lena')
+plt.savefig('../out/HPT_lena')
 plt.show()

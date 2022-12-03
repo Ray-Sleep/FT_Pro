@@ -18,7 +18,6 @@ img = cv2.imread('../image/lena.png',0)
 
 # 傅里叶变换,由cv得到了 图像的 频谱
 dft = cv2.dft(np.float32(img),flags= cv2.DFT_COMPLEX_OUTPUT)
-
 dftShift = np.fft.fftshift(dft)
 
 # 之前得到的是傅里叶的一个结果，但其为双通道，使用magnitude函数进行转换
