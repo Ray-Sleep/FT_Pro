@@ -6,8 +6,8 @@
 @Author  : 李睡睡
 @Date    : 2022/12/2 17:18 
 @Scripts :opencv 、 numpy 、 matplotlib
-@Documentation:
-@Function:分别实现了 傅里叶变换的 正变换 与 逆变换
+@Documentation:https://www.bilibili.com/video/BV1qt4y1u7N9?p=6&vd_source=fa4736bfe6ad0afc755decfbf72b082a
+@Function:使用 numpy 分别实现了 傅里叶变换的 正变换 与 逆变换
 @Tips    :不要左顾右盼。慢慢积累，慢慢写吧。毕竟除了这样单调的努力，我什么也做不了。
 """
 import cv2

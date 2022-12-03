@@ -6,7 +6,8 @@
 @Author  : 李睡睡
 @Date    : 2022/12/4 2:32
 @Scripts :opencv 、 numpy 、 matplotlib
-@Function: 高通滤波的 cv 实现
+@Documentation:https://www.bilibili.com/video/BV1qt4y1u7N9?p=6&vd_source=fa4736bfe6ad0afc755decfbf72b082a
+@Function:使用 numpy 对高通滤波的实现
 @Tips    :不要左顾右盼。慢慢积累，慢慢写吧。毕竟除了这样单调的努力，我什么也做不了。
 """
 import cv2
